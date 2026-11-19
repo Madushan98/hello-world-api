@@ -1,0 +1,8 @@
+# Only send the files needed to build the application to Docker.
+**
+!pom.xml
+!mvnw
+!.mvn/
+!.mvn/**
+!src/
+!src/**
